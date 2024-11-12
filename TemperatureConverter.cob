@@ -1,6 +1,7 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID. TemperatureConverter.
-
+       AUTHOR. Jv Fonte com Chá de Gepetê.
+       DATE-WRITTEN. 2024-11-11.
        DATA DIVISION.
        WORKING-STORAGE SECTION.
 
